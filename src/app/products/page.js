@@ -41,19 +41,19 @@ const ProductPage = () => {
       <div className="grid  grid-cols-1 sm:grid-cols-2 px-6 space-y-16 sm:px-12 lg:px-32 py-16 md:grid-cols-3 gap-8">
         {updatedList.map((product) => (
           <div
-            className="space-y-2 flex flex-col h-full bg-[#FFFFFF] shadow-neutral-500 shadow-2xl pb-6 rounded-2xl"
+            className="space-y-2 flex flex-col h-full bg-[#FFFFFF] shadow-neutral-500 shadow-2xl rounded-2xl"
             key={product.id}
           >
             <ul>
               <li>
                 <img
-                  className="w-full h-56"
+                  className="w-full"
                   src={product.image}
                   alt={product.name}
                 />
               </li>
             </ul>
-            <ul className="space-y-2 p-6">
+            <ul className="space-y-2 px-6">
               <li className="font-bold lg:text-2xl text-[#1A191F]">
                 {product.name}
               </li>
