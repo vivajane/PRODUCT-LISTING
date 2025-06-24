@@ -1,0 +1,84 @@
+[
+    {
+        "id" : 1,
+        "name" : "Cappuccino",
+        "price" : 10,
+        "image" : "/images/listone.png",
+        "category" : "coffee",
+        "mini" : "/images/minni.png"
+
+    },
+    {
+        "id" : 2,
+        "name" : "Matcha Latte",
+        "price" : 8,
+        "image" : "/images/listwo.png",
+        "category" : "coffee",
+        "mini" : "/images/minni.png"
+
+    },
+    {
+        "id" : 3,
+        "name" : "Golden Latte",
+        "price" : 10,
+        "image" : "/images/listhree.png",
+        "category" : "coffee",
+        "mini" : "/images/minni.png"
+
+    },
+    {
+        "id" : 4,
+        "name" : "Hot Chocolate",
+        "price" : 12,
+        "image" : "/images/listfour.png",
+        "category" : "coffee",
+        "mini" : "/images/minni.png"
+
+    },
+    {
+        "id" : 5,
+        "name" : "Iced Latte",
+        "price" : 100,
+        "image" : "/images/listfive.png",
+        "category" : "coffee",
+        "mini" : "/images/minni.png"
+
+    },
+    {
+        "id" : 6,
+        "name" : "Plain Croissant",
+        "price" : 100,
+        "image" : "/images/listsix.png",
+        "category" : "burger",
+        "mini" : "/images/minni.png"
+
+    },
+    {
+        "id" : 7,
+        "name" : "French Macaron",
+        "price" : 15,
+        "image" : "/images/listseven.png",
+        "category" : "burger",
+        "mini" : "/images/minni.png"
+
+    },
+    {
+        "id" : 8,
+        "name" : "Original Blend Coffee",
+        "price" : 20,
+        "image" : "/images/listeight.png",
+        "category" : "coffee",
+        "mini" : "/images/minni.png"
+
+    },
+    {
+        "id" : 9,
+        "name" : "Energy Cookie",
+        "price" : 100,
+        "image" : "/images/listnine.png",
+        "category" : "burger",
+        "mini" : "/images/minni.png"
+
+    }
+    
+]
